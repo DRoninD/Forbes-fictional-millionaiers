@@ -1,0 +1,6 @@
+{
+       "files.autoSave": "onWindowChange",
+       "editor.fontSize": 17,
+       "editor.fontFamily": "Consolas,'Roboto',  'Courier New', monospace",
+       "editor.tabSize": 7
+}
